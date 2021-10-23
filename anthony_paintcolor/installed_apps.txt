@@ -1,0 +1,2 @@
+version:1
+apps:monstercolorbynumber.vdta.pokecoloring,colorbynumber.vdta.animepainting
